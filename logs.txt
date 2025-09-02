@@ -1,0 +1,12 @@
+Aluno matheus cadastrado com sucesso! Matrícula: GES1
+Aluno alex cadastrado com sucesso! Matrícula: GEC1
+Aluno Eliana cadastrado com sucesso! Matrícula: GEB1
+--- Lista de Alunos ---
+Matrícula: GES1 | Nome: matheus | E-mail: matheus@inatel.br | Curso: GES
+Matrícula: GEC1 | Nome: alex | E-mail: alex@inatel.br | Curso: GEC
+Matrícula: GEB1 | Nome: Eliana | E-mail: eliana@inatel.br | Curso: GEB
+Aluno não encontrado.
+--- Lista de Alunos ---
+Matrícula: GES1 | Nome: matheus | E-mail: matheus@inatel.br | Curso: GES
+Matrícula: GEC1 | Nome: alex | E-mail: alex@inatel.br | Curso: GEC
+Matrícula: GEB1 | Nome: Eliana | E-mail: eliana@inatel.br | Curso: GEB
