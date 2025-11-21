@@ -55,6 +55,7 @@ builder.Services.AddAuthorization();
 // SERVICES
 // -----------------------------
 builder.Services.AddScoped<AuthService>();
+builder.Services.AddScoped<OrderService>();
 builder.Services.AddSingleton<IMongoRepository<AuditLog>>(sp => 
     new MongoRepository<AuditLog>(database, "auditLogs"));
 
